@@ -1,6 +1,9 @@
 ### [ Pentesting & Security Tools ]
 <img src="https://tryhackme-badges.s3.amazonaws.com/shift000.png"/>
+
 <p align="left">
+  <img src="https://www.misp-project.org/img/logo.png" style="height:25px;"/>
+  <img src="https://www.rapid7.com/cdn/assets/blt3da7d9f2fa8a488c/6724caccac1d71e009a67c69/Rapid7_logo.svg" style="height:25px;"/>
   <img src="https://img.shields.io/badge/bitwarden-175DDC?style=for-the-badge&logo=bitwarden&logoe">
   <img src="https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white">
   <img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00">

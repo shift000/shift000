@@ -11,21 +11,8 @@
            box-sizing: border-box;
          ">
       <h3 style="margin: 0 0 8px 0; color: #2b6cb0;">
-        Beispielinhalt
+        HEADLINE
       </h3>
-      <ul style="margin: 0; padding-left: 18px;">
-        <li style="color: #2f855a;"></li>
-      </ul>
-      <div
-        style="
-          margin-top: 10px;
-          padding: 6px;
-          background-color: #edf2f7;
-          border: 1px solid #718096;
-          font-size: 12px;
-        ">
-        HTML und CSS inline im SVG
-      </div>
     </div>
   </foreignObject>
 </svg>

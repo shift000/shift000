@@ -4,8 +4,8 @@
          style="
            font-family: Arial, Helvetica, sans-serif;
            background-color: #f5f7fa;
-           border: 2px solid #2b6cb0;
-           border-radius: 8px;
+           border: 2px solid #3c3c3c;
+           border-radius: 2px;
            padding: 12px;
            color: #1a202c;
            box-sizing: border-box;
@@ -14,16 +14,14 @@
         Beispielinhalt
       </h3>
       <ul style="margin: 0; padding-left: 18px;">
-        <li style="color: #2f855a;"><img src="https://tryhackme-badges.s3.amazonaws.com/shift000.png"/></li>
-        <li style="color: #c05621;">Text 2</li>
-        <li style="color: #805ad5;">Text 3</li>
+        <li style="color: #2f855a;"></li>
       </ul>
       <div
         style="
           margin-top: 10px;
           padding: 6px;
           background-color: #edf2f7;
-          border: 1px dashed #718096;
+          border: 1px solid #718096;
           font-size: 12px;
         ">
         HTML und CSS inline im SVG

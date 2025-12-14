@@ -1,10 +1,33 @@
-<svg width="100" height="100" background="red" xmlns="http://www.w3.org/2000/svg">
-<foreignObject width="100" height="100">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-        <ul>
-            <li>text</li>
-        </ul>
-        <!-- Other embed HTML element/text into SVG -->
+<svg width="300" height="160" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml"
+         style="
+           font-family: Arial, Helvetica, sans-serif;
+           background-color: #f5f7fa;
+           border: 2px solid #2b6cb0;
+           border-radius: 8px;
+           padding: 12px;
+           color: #1a202c;
+           box-sizing: border-box;
+         ">
+      <h3 style="margin: 0 0 8px 0; color: #2b6cb0;">
+        Beispielinhalt
+      </h3>
+      <ul style="margin: 0; padding-left: 18px;">
+        <li style="color: #2f855a;">Text 1</li>
+        <li style="color: #c05621;">Text 2</li>
+        <li style="color: #805ad5;">Text 3</li>
+      </ul>
+      <div
+        style="
+          margin-top: 10px;
+          padding: 6px;
+          background-color: #edf2f7;
+          border: 1px dashed #718096;
+          font-size: 12px;
+        ">
+        HTML und CSS inline im SVG
+      </div>
     </div>
-</foreignObject>
+  </foreignObject>
 </svg>
